@@ -1,0 +1,28 @@
+items:
+-   label: 介绍
+    file: README.md
+-   label: 落日希望（散文集）
+-   label: 小引
+    file: xiaoyin.md
+-   label: 从碧桂园到一中实校
+    file: cbgydyzsx.md
+-   label: <del>丢失的记忆</del>
+    file: 404.md #dsdjy.md
+-   label: <del>网名的故事</del>
+    file: 404.md #wmdgs.md
+-   label: <del>四大天王</del>
+    file: 404.md #sdtw.md
+-   label: <del>太空狼人杀</del>
+    file: 404.md #tklrs.md
+-   label: 凛冬已至
+    file: ldyz.md
+-   label: <del>哈尔滨</del>
+    file: 404.md #harbin.md
+-   label: <del>初生</del>
+    file: 404.md #cs.md
+-   label: <del>过客</del>
+    file: 404.md #gk.md
+-   label: <del>红色警戒</del>
+    file: 404.md #redalert2.md
+-   label: <del>我的世界</del>
+    file: 404.md #minceraft.md

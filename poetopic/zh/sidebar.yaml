@@ -1,0 +1,41 @@
+items:
+-   label: 介绍
+    file: README
+-   label: 希望落日（诗集）
+
+-   label: 经典
+    file: standard.md
+    collapsed: false
+    items:
+    -   label: 大雨还在下
+        file: standard.md#dyhzx
+    -   label: 雨中漫步
+        file: standard.md#yzmb
+    -   label: 逝去的光
+        file: standard.md#sqdg
+    -   label: 玫瑰花丛
+        file: standard.md#mghc
+
+-   label: 苦情
+    file: romance.md
+    collapsed: false
+    items:
+    -   label: 我记得
+        file: romance.md#wjd
+    -   label: 梦里的她
+        file: romance.md#mldt
+    -   label: 五律·难归
+        file: romance.md#wl_ng
+    -   label: 五律·无题
+        file: romance.md#wl_wt
+
+-   label: 救赎
+    file: save.md
+    collapsed: false
+    items:
+    -   label: 囚
+        file: save.md#qiu
+    -   label: 假如借我三天魂灵
+        file: save.md#jrjwsthl
+    -   label: 自思自念
+        file: save.md#zszn

@@ -1,0 +1,6 @@
+items:
+-   label: 介绍
+    file: README.md
+-   label: 夜路明灯（小说集）
+-   label: <del>排头的那杆火焰</del>
+    file: 404.md #ptdnghy.md
